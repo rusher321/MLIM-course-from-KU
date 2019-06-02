@@ -1,1 +1,1 @@
-These resource is from  the PhD course entitled **"Machine Learning and Imaging Methods”** of KU
+It's the PhD course entitled **"Machine Learning and Imaging Methods”** of KU
