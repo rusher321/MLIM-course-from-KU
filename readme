@@ -1,6 +1,1 @@
-echo "# MLIM-course-from-KU" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/rusher321/MLIM-course-from-KU.git
-git push -u origin master
+These resource is from  the PhD course entitled **"Machine Learning and Imaging Methods”** of KU
